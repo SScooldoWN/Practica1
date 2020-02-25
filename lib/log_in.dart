@@ -30,6 +30,8 @@ class _LogInState extends State<LogIn> {
                 Image.asset("lib/assets/image/cupping.png",
            height: 150,
         ),
+                ],
+              ),
             SizedBox(height: 12.0),
             Text("Nombre Completo", style: TextStyle(color: white)),
             Container(
